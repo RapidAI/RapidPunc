@@ -32,7 +32,12 @@ rapidpunc_tester
 
 
 
+## Download model
 
+```
+链接：https://pan.baidu.com/s/1neFfd6HT4PLvvqeixxvH2w?pwd=y85r 
+提取码：y85r
+```
 
 ## run
 
