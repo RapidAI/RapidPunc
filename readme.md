@@ -1,3 +1,5 @@
+A library for adding punctuations into a piece of text getting from an ASR.
+
 ## Build on Linux X64
 
 git clone  https://github.com/alibaba-damo-academy/FunASR.git
