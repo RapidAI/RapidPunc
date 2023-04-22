@@ -2,9 +2,9 @@ A library for adding punctuations into a piece of text getting from an ASR.
 
 ## Build on Linux X64
 
-git clone  https://github.com/alibaba-damo-academy/FunASR.git
+git clone  https://github.com/RapidAI/RapidPunc.git
 
-cd FunASR/funasr/runtime/rapidpunc
+cd RapidPunc
 
 mkdir build
 
