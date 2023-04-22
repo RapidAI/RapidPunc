@@ -39,7 +39,7 @@ rapidpunc_tester
 提取码：y85r
 ```
 
-## run
+## Run
 
 rapidpunc_tester /path/to/model/dir  /path/to/wave/file
 
