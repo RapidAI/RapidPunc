@@ -48,3 +48,6 @@ rapidpunc_tester /path/to/model/dir  /path/to/wave/file
 
 in a model_dir, it should include: punc.yaml  model.onnx
 
+
+## Example
+[Tester.cpp](sources/tester.cpp)
