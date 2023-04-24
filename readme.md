@@ -1,5 +1,6 @@
 A library for adding punctuations into a piece of text getting from an ASR.
 
+用于对ASR识别后的结果添加标点符号
 ## Build on Linux X64
 
 git clone  https://github.com/RapidAI/RapidPunc.git
